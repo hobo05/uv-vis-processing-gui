@@ -34,6 +34,8 @@
                 <version>1.0.4</version>
                 <configuration>
                     <mainClass>com.chengsoft.App</mainClass>
+                    <iconFile>colba-icon.icns</iconFile>
+                    <generateDiskImageFile>true</generateDiskImageFile>
                 </configuration>
                 <executions>
                     <execution>
